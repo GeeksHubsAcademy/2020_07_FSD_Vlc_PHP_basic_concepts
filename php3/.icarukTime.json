@@ -1,0 +1,13 @@
+{
+    "idleHeartbeats": 332,
+    "navigatingHeartbeats": 137,
+    "totalCodingHeartbeats": 676,
+    "languageHeartbeats": {
+        "php": 673,
+        "code-runner-output": 3
+    },
+    "fileHeartbeats": {
+        "index.php": 673,
+        "extension-output-#7": 3
+    }
+}
